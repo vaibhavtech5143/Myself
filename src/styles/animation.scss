@@ -14,3 +14,10 @@
 
 
 }
+
+@keyframes upupdowndown {
+
+    to {
+        transform: translateY(-10px);
+    }
+}
